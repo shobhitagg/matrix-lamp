@@ -8,8 +8,8 @@ The matrix lamp is a companion desktop lamp. It can be single color warm lamp, a
 1. Assemble the matrix-lamp as per the [CAD](#full-assembly-cad) files.
 2. Connect up the wires as per the [schematic](./design-files/schematic.pdf).
 3. Upload the firmware of your choice.\
-    3.1. Use the USB-C port of the microcontroller when uploading the code.
-    3.2. Follow the [upload guide](./upload-guide.pdf).
+    3.1. Use the USB-C port of the microcontroller when uploading the code.\
+    3.2. Follow the [upload guide](./upload-guide.pdf).\
     3.3. Slide the microntroller into the slot after the code is uploaded.
 
 > [!Note]
