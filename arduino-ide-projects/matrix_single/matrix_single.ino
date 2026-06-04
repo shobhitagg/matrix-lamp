@@ -35,7 +35,7 @@ void setup() {
 
     // pixels.Color() takes RGB values, from 0,0,0 up to 255,255,255
     // Here we're using a moderately bright green color:
-    pixels.setPixelColor(i, pixels.Color(253, 244, 220));
+    pixels.setPixelColor(i, pixels.Color(100, 90, 20));
 
     pixels.show();   // Send the updated pixel colors to the hardware.
   }  

@@ -21,9 +21,9 @@ All the available firmware projects are in the [arduino-ide-projects](./arduino-
 
 | Project | Description | Demo GIF |
 | --------| ----------- | -------- |
-| [Matrix Single](./arduino-ide-projects/matrix_single/) | Switches on to warm light color | ![matrix-single](./arduino-ide-projects/matrix_single/demo.gif)
-| [Matrix Rainbow](./arduino-ide-projects/matrix_rainbow) | Cycles through the color spectrum | ![matrix-rainbow](./arduino-ide-projects/matrix_rainbow/demo.gif)
-| [Matrix Web](./arduino-ide-projects/matrix_web) | Connects to a WiFi network, and allows user to change the color on the webpage ([matrix.local](http://matrix.local/)) | ![matrix-web](./arduino-ide-projects/matrix_web/demo.gif)
+| [Matrix Single](./arduino-ide-projects/matrix_single/) | Switches on to warm light color | ![matrix-single](./arduino-ide-projects/matrix_single/matrix-single.jpg)
+| [Matrix Rainbow](./arduino-ide-projects/matrix_rainbow) | Cycles through the color spectrum | ![matrix-rainbow](./arduino-ide-projects/matrix_rainbow/matrix-rainbow.gif)
+| [Matrix Web](./arduino-ide-projects/matrix_web) | Connects to a WiFi network, and allows user to change the color on the webpage ([matrix.local](http://matrix.local/)) | ![matrix-web](./arduino-ide-projects/matrix_web/matrix-web.gif)
 
 
 ## Design Files and BOM
